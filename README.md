@@ -9,10 +9,13 @@
 
 <h1 align="center"> 👋 Hi , I'm Boluwatife David </h1>
 
+<h6 align="center">You can call me dave for short</h6>
+  &nbsp;
+
 <div align="center">
 💻 I am a Front-end Developer based in Nigeria.
 <div>
-  
+  &nbsp;
   
 <p>Working with top-notch peeps is the bee's knees, and I'm always down to chat about all things tech and web development.</p>
 
