@@ -35,7 +35,7 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GIT-Gizmo&theme=tokyonight)]()
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GIT-Gizmo&repo=react-portfolio-template&theme=tokyonight)](https://github.com/GIT-Gizmo/dave)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GIT-Gizmo&repo=dave&theme=tokyonight)](https://github.com/GIT-Gizmo/dave)
   
 </div>    
 
