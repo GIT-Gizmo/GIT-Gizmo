@@ -7,12 +7,14 @@
 
 
 
-<h1 align="center"> 🤚 Hi I'm Boluwatife David 🤚</h1>
+<h1 align="center"> 👋 Hi , I'm Boluwatife David </h1>
 
 <div align="center">
-🍁 I am a Front-end Developer based in Nigeria.
+💻 I am a Front-end Developer based in Nigeria.
 <div>
-
+  
+  
+<p>Working with top-notch peeps is the bee's knees, and I'm always down to chat about all things tech and web development.</p>
 
 <h2 align="center"> 🌏 Socials :</h2>
 
@@ -31,11 +33,11 @@
   
   # 📊 GitHub Stats:
   
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=GIT-Gizmo&theme=material-palenight&hide=prs)]()
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=GIT-Gizmo&theme=gotham&hide=prs)]()
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GIT-Gizmo&theme=tokyonight)]()
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GIT-Gizmo&theme=gotham)]()
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GIT-Gizmo&repo=dave&theme=tokyonight)](https://github.com/GIT-Gizmo/dave)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GIT-Gizmo&repo=dave&theme=github_dark)](https://github.com/GIT-Gizmo/dave)
   
 </div>    
 
