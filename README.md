@@ -40,7 +40,7 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GIT-Gizmo&theme=gotham)]()
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GIT-Gizmo&repo=dave&theme=github_dark)](https://github.com/GIT-Gizmo/dave)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GIT-Gizmo&repo=davecodes&theme=github_dark)](https://github.com/GIT-Gizmo/dave)
   
 </div>    
 
