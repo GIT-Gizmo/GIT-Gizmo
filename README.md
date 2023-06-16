@@ -32,7 +32,7 @@
 
 </div>
   
-<!-- <div style="display: flex; width: 80%; margin: 0 auto">
+<div style="display: flex; width: 80%; margin: 0 auto">
   
   # 📊 GitHub Stats:
   
@@ -42,7 +42,7 @@
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GIT-Gizmo&repo=davecodes&theme=github_dark)](https://github.com/GIT-Gizmo/davecodes)
   
-</div>     -->
+</div>    
 
 <h2 align="center"> 💻 Tech Stack :</h2>
 <div align="center">
