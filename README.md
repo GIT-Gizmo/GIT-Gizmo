@@ -23,7 +23,7 @@
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boluwatife-david-b73354ab/) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boluwatife-david/) 
   [![GMail](https://img.shields.io/badge/GMail-DB4437?style=for-the-badge&logo=gmail&logoColor=F4B400)](mailto:davidbolu12@gmail.com)
   [![Whatsapp](https://img.shields.io/badge/Whatsapp-075E54?style=for-the-badge&logo=whatsapp&logoColor=white)](https:/wa.me/+2348161507144) 
   [![Twitter](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/davecodes2)  
