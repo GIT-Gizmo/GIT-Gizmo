@@ -2,7 +2,7 @@
 - 👀 I’m interested in meeting enthusiastic web developers like myself
 - 🌱 I’m currently learning to become a Full-Stack developer
 - 💞️ I’m looking to collaborate on any web projects
-- 📫 How to reach me davidbolu12@gmail.com or message me on whatsapp https://wa.me/+2348161507144 -->
+- 📫 How to reach me davidbolu12@gmail.com or message me on telegram https://t.me/dave_gizmo -->
 
 
 
@@ -17,7 +17,7 @@
 <div>
   &nbsp;
   
-<p>Working with top-notch peeps is the bee's knees, and I'm always down to chat about all things tech and web development.</p>
+<p>Working with top-notch gurus is awesome, and I'm always down to contribute and chat about all things tech and web development.</p>
 
 <h2 align="center"> 🌏 Socials :</h2>
 
