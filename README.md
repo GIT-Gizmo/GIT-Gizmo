@@ -10,8 +10,7 @@ Frontend wizard just a spell short of being a Full Stack sorcerer! Fueled by a r
 * 🖥️  See my portfolio at [My Portfolio](http://davecodes.vercel.app)
 * ✉️  You can contact me at [davidbolu12@gmail.com](mailto:davidbolu12@gmail.com)
 * 🚀  I'm currently working on [PromptSynth](http://(s)promptsynth.vercel.app)
-* 🧠  I'm learning Nextjs and some backend technologies
-* 🤝  I'm open to collaborating on Impactful and interesting projects
+* 🧠  I'm learning some backend technologies
 * ⚡  They say I've got the superpower of adaptability, while my thirst for knowledge could rival even Superman's strength!
 
 <a href="https://www.github.com/GIT-Gizmo" target="_blank" rel="noreferrer"><img
