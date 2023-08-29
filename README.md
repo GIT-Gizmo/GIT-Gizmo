@@ -19,6 +19,8 @@ src="https://img.shields.io/github/followers/GIT-Gizmo?logo=github&style=for-the
 src="https://img.shields.io/twitter/follow/davecodes2?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
+[![](https://visitcount.itsvg.in/api?id=davegizmo&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 ### Skills 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
