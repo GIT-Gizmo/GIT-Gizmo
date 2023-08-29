@@ -4,7 +4,7 @@ Hi 👋 My name is Boluwatife David
 Modest Frontend Engineer
 -----------------
 
-I'm a dedicated frontend engineer almost a Full Stack dev. I'm fuelled by my enthusiasm for learning new skills, infusing creativity and functionality into each project. I'm open to frontend developer roles to contribute my expertise to impactful projects. Let's collaborate and create web magic!
+Frontend wizard just a spell short of being a Full Stack sorcerer! Fueled by a relentless pursuit of the trendiest tech tools, GitHub stars and coffee. Every project is my playground where creativity meets functionality! Castle doors are wide open for frontend roles to spread my web enchantments. Let's join wands and conjure up some web magic!
 
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [My Portfolio](http://davecodes.vercel.app)
@@ -12,7 +12,7 @@ I'm a dedicated frontend engineer almost a Full Stack dev. I'm fuelled by my ent
 * 🚀  I'm currently working on [PromptSynth](http://(s)promptsynth.vercel.app)
 * 🧠  I'm learning Nextjs and some backend technologies
 * 🤝  I'm open to collaborating on Impactful and interesting projects
-* ⚡  People tell me my superpower is my ability to adapt and my passion for learning new things
+* ⚡  They say I've got the superpower of adaptability, while my thirst for knowledge could rival even Superman's strength!
 
 <a href="https://www.github.com/GIT-Gizmo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/GIT-Gizmo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>  <a href="https://www.x.com/davecodes2" target="_blank" rel="noreferrer"><img
