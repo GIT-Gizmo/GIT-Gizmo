@@ -1,7 +1,7 @@
 Hi 👋 My name is Boluwatife David
 =================================
 
-Frontend Engineer
+Modest Frontend Engineer
 -----------------
 
 I'm a dedicated frontend engineer almost a Full Stack dev. I'm fuelled by my enthusiasm for learning new skills, infusing creativity and functionality into each project. I'm seeking a frontend developer role to contribute my expertise to impactful projects. Let's collaborate and create delightful digital experiences!
