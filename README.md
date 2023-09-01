@@ -1,7 +1,7 @@
 Hi 👋 My name is Boluwatife David
 =================================
 
-Modest Frontend Engineer
+Dynamic Frontend Engineer
 -----------------
 
 Frontend wizard just a spell short of being a Full Stack sorcerer! Fueled by a relentless pursuit of the trendiest tech tools, GitHub stars and coffee. Every project is my playground where creativity meets functionality! Castle doors are wide open for frontend roles to spread my web enchantments. Let's join wands and conjure up some web magic!
