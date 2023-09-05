@@ -6,7 +6,7 @@ Dynamic Frontend Engineer
 
 Frontend wizard just a spell short of being a Full Stack sorcerer! Fueled by a relentless pursuit of the trendiest tech tools, GitHub stars and coffee. Every project is my playground where creativity meets functionality! Castle doors are wide open for frontend roles to spread my web enchantments. Let's join wands and conjure up some web magic!
 
-* 🌍  I'm based in Nigeria
+* 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [My Portfolio](http://davecodes.vercel.app)
 * ✉️  You can contact me at [davidbolu12@gmail.com](mailto:davidbolu12@gmail.com)
 * 🚀  I'm currently working on [PromptSynth](http://(s)promptsynth.vercel.app)
