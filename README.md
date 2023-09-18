@@ -4,13 +4,14 @@ Hi 👋 My name is Boluwatife David
 Dynamic Frontend Engineer
 -----------------
 
-Frontend wizard just a spell short of being a Full Stack sorcerer! Fueled by a relentless pursuit of the trendiest tech tools, GitHub stars and coffee. Every project is my playground where creativity meets functionality! Castle doors are wide open for frontend roles to spread my web enchantments. Let's join wands and conjure up some web magic!
+Building at [SwapSpace](http://swapspace.live)
+I recently ventured into the wild wilderness of open-source projects and voila! It's practically my new hobby. Next up: conquer the world with my coding skills, one line at a time! Let's join wands and conjure up some web magic!
 
-* 🌍  I'm based in Lagos, Nigeria
-* 🖥️  See my portfolio at [My Portfolio](http://davecodes.vercel.app)
-* ✉️  You can contact me at [davidbolu12@gmail.com](mailto:davidbolu12@gmail.com)
-* 🚀  I'm currently working on [PromptSynth](http://(s)promptsynth.vercel.app)
-* 🧠  I'm learning some backend technologies
+* 🌍  Location: Debugville
+* 🖥️  View my [Portfolio](http://davecodes.vercel.app)
+* ✉️  Mail me at [davidbolu12@gmail.com](mailto:davidbolu12@gmail.com)
+* 🚀  Currently working on [PromptSynth](http://(s)promptsynth.vercel.app) an AI prompt Generator
+* 🧠  Learning some backend technologies.
 * ⚡  They say I've got the superpower of adaptability, while my thirst for knowledge could rival even Superman's strength!
 
 <a href="https://www.github.com/GIT-Gizmo" target="_blank" rel="noreferrer"><img
