@@ -4,8 +4,9 @@ Hi 👋 My name is Boluwatife David
 Dynamic Frontend Engineer
 -----------------
 
-Building at [SwapSpace](http://swapspace.live)
-I recently ventured into the wild wilderness of open-source projects and voila! It's practically my new hobby. Next up: conquer the world with my coding skills, one line at a time! Let's join wands and conjure up some web magic!
+Merging my way to mental stability at [SwapSpace](http://swapspace.live), one commit at a time. (Side effects may include increased self-esteem and a sudden urge to learn Rust.)
+<!-- Building at [SwapSpace](http://swapspace.live)
+I recently ventured into the wild wilderness of open-source projects and voila! It's practically my new hobby. Next up: conquer the world with my coding skills, one line at a time! Let's join wands and conjure up some web magic! -->
 
 * 🌍  Location: Debugville
 * 🖥️  View my [Portfolio](http://davecodes.vercel.app)
