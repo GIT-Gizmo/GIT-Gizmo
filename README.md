@@ -12,7 +12,7 @@ I recently ventured into the wild wilderness of open-source projects and voila! 
 * 🖥️  View my [Portfolio](http://davecodes.vercel.app)
 * ✉️  Mail me at [davidbolu12@gmail.com](mailto:davidbolu12@gmail.com)
 * 🚀  Currently working on [PromptSynth](http://(s)promptsynth.vercel.app) an AI prompt Generator
-* 🧠  Learning some backend technologies.
+* 🧠  Learning Nodejs.
 * ⚡  They say I've got the superpower of adaptability, while my thirst for knowledge could rival even Superman's strength!
 
 <a href="https://www.github.com/GIT-Gizmo" target="_blank" rel="noreferrer"><img
