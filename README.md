@@ -1,7 +1,7 @@
 Hi 👋 My name is Boluwatife David
 =================================
 
-Dynamic Frontend Engineer
+Full Stack Engineer
 -----------------
 
 Merging my way to mental stability at [SwapSpace](http://swapspace.live), one commit at a time. (Side effects may include increased self-esteem and a sudden urge to learn Rust.)
