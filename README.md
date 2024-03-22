@@ -1,5 +1,5 @@
 Hi 👋 My name is Boluwatife David
-=================================
+=================================   
 
 Full Stack Engineer
 -----------------
@@ -11,13 +11,13 @@ I recently ventured into the wild wilderness of open-source projects and voila! 
 * 🌍  Location: Debugville
 * 🖥️  View my [Portfolio](http://davecodes.vercel.app)
 * ✉️  Mail me at [davidbolu12@gmail.com](mailto:davidbolu12@gmail.com)
-* 🚀  Currently working on [PromptSynth](http://(s)promptsynth.vercel.app) an AI prompt Generator
-* 🧠  Learning Nodejs.
+* 🚀  Currently working on [EthFlow](https://github.com/GIT-Gizmo/EthFlow), a web 3.0 Blockchain App.
+* 🧠  Learning Web 3.0.
 * ⚡  They say I've got the superpower of adaptability, while my thirst for knowledge could rival even Superman's strength!
 
 <a href="https://www.github.com/GIT-Gizmo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/GIT-Gizmo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>  <a href="https://www.x.com/davecodes2" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/davecodes2?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/dave_gizmo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 [![](https://visitcount.itsvg.in/api?id=davegizmo&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
