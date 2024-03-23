@@ -47,6 +47,7 @@ src="https://img.shields.io/twitter/follow/dave_gizmo?logo=twitter&style=for-the
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
 <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a>
+<a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://i.gyazo.com/63ae5e0cad993aa54dedafd17c3b8fbf.png" width="36" height="36" alt="Threejs" /></a>
                     
 
 
