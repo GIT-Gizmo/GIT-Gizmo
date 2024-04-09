@@ -9,7 +9,7 @@ Merging my way to mental stability at [SwapSpace](http://swapspace.live), one co
 I recently ventured into the wild wilderness of open-source projects and voila! It's practically my new hobby. Next up: conquer the world with my coding skills, one line at a time! Let's join wands and conjure up some web magic! -->
 
 * 🌍  Location: Debugville
-* 🖥️  View my [Portfolio](http://davecodes.vercel.app)
+* 🖥️  View my [Portfolio](https://davegizmo.tech)
 * ✉️  Mail me at [davidbolu12@gmail.com](mailto:davidbolu12@gmail.com)
 * 🚀  Currently working on [EthFlow](https://github.com/GIT-Gizmo/EthFlow), a web 3.0 Blockchain App.
 * 🧠  Learning Web 3.0.
