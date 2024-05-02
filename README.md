@@ -5,8 +5,10 @@ Full Stack Engineer
 -----------------
 
 Merging my way to mental stability one commit at a time. (Side effects may include increased self-esteem and a sudden urge to learn Rust.)
-<!-- Building at [SwapSpace](http://swapspace.live)
-I recently ventured into the wild wilderness of open-source projects and voila! It's practically my new hobby. Next up: conquer the world with my coding skills, one line at a time! Let's join wands and conjure up some web magic! -->
+<!-- 
+Building at [SwapSpace](http://swapspace.live)
+I recently ventured into the wild wilderness of open-source projects and voila! It's practically my new hobby. Next up: conquer the world with my coding skills, one line at a time! Let's join wands and conjure up some web magic! 
+-->
 
 * 🌍  Location: Debugville
 * 🖥️  View my <a href="https://davegizmo.tech" target="_blank" rel="noreferrer">Portfolio</a>
