@@ -13,7 +13,7 @@ I recently ventured into the wild wilderness of open-source projects and voila! 
 * 🌍  Location: Debugville
 * 🖥️  View my <a href="https://davegizmo.tech" target="_blank" rel="noreferrer">Portfolio</a>
 * ✉️  Mail me at [davidbolu12@gmail.com](mailto:davidbolu12@gmail.com)
-* 🚀  Currently working on [Vyra](https://github.com/GIT-Gizmo/vyra), a React Native Mobile App for shharing AI generated videos.
+* 🚀  Currently working on [Genia](https://github.com/GIT-Gizmo/genia), a React Native Mobile App for shharing AI generated videos.
 * 🧠  Learning Web 3.0.
 <!-- * ⚡  They say I've got the superpower of adaptability, while my thirst for knowledge could rival even Superman's strength! -->
 
