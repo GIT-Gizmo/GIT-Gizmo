@@ -6,16 +6,16 @@ Full Stack Engineer
 
 Merging my way to mental stability one commit at a time. (Side effects may include increased self-esteem and a sudden urge to learn Rust.)
 
-Building at [SwapSpace](http://swapspace.live)
+Building at [Africa Social Earn](http://www.afsoen.com.ng)
 <!-- 
 I recently ventured into the wild wilderness of open-source projects and voila! It's practically my new hobby. Next up: conquer the world with my coding skills, one line at a time! Let's join wands and conjure up some web magic! 
 -->
 
-* 🌍  Location: Debugville
+* 🌍  Location: localhost:3000
 * 🖥️  View my <a href="https://davegizmo.tech" target="_blank" rel="noreferrer">Portfolio</a>
 * ✉️  Mail me at [davidbolu12@gmail.com](mailto:davidbolu12@gmail.com)
 * 🚀  Currently working on [Genia](https://github.com/GIT-Gizmo/genia), a SaaS platform for generating videos, images, code, music and having conversation with AI.
-* 🧠  Learning Web 3.0.
+* 🧠  Web 3.0 and AI-enthusiast.
 <!-- * ⚡  They say I've got the superpower of adaptability, while my thirst for knowledge could rival even Superman's strength! -->
 
 <a href="https://www.github.com/GIT-Gizmo" target="_blank" rel="noreferrer"><img
