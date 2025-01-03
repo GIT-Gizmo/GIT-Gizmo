@@ -74,19 +74,19 @@ src="https://img.shields.io/twitter/follow/dave_gizmo?logo=twitter&style=for-the
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/GIT-Gizmo"><img src="https://github-readme-stats-6x3b.vercel.app/api?username=GIT-Gizmo&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GIT-Gizmo's GitHub stats" /></a>
+<a href="http://www.github.com/GIT-Gizmo"><img src="https://github-readme-stats-ruddy-zeta-11.vercel.app/api?username=GIT-Gizmo&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GIT-Gizmo's GitHub stats" /></a>
 
 <a href="http://www.github.com/GIT-Gizmo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GIT-Gizmo&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/GIT-Gizmo" align="left"><img src="https://github-readme-stats-6x3b.vercel.app/api/top-langs/?username=GIT-Gizmo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/GIT-Gizmo" align="left"><img src="https://github-readme-stats-ruddy-zeta-11.vercel.app/api/top-langs/?username=GIT-Gizmo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/GIT-Gizmo/ai-stitches" align="left"><img align="left" width="45%" src="https://github-readme-stats-6x3b.vercel.app/api/pin/?username=GIT-Gizmo&repo=ai-stitches&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/GIT-Gizmo/home-seekr" align="right"><img align="right" width="45%" src="https://github-readme-stats-6x3b.vercel.app/api/pin/?username=GIT-Gizmo&repo=home-seekr&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/GIT-Gizmo/ai-stitches" align="left"><img align="left" width="45%" src="https://github-readme-stats-ruddy-zeta-11.vercel.app/api/pin/?username=GIT-Gizmo&repo=ai-stitches&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/GIT-Gizmo/home-seekr" align="right"><img align="right" width="45%" src="https://github-readme-stats-ruddy-zeta-11.vercel.app/api/pin/?username=GIT-Gizmo&repo=home-seekr&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/GIT-Gizmo/promptsynth" align="left"><img align="left" width="45%" src="https://github-readme-stats-6x3b.vercel.app/api/pin/?username=GIT-Gizmo&repo=promptsynth&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/GIT-Gizmo/trendspotter" align="right"><img align="right" width="45%" src="https://github-readme-stats-6x3b.vercel.app/api/pin/?username=GIT-Gizmo&repo=trendspotter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/GIT-Gizmo/promptsynth" align="left"><img align="left" width="45%" src="https://github-readme-stats-ruddy-zeta-11.vercel.app/api/pin/?username=GIT-Gizmo&repo=promptsynth&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/GIT-Gizmo/trendspotter" align="right"><img align="right" width="45%" src="https://github-readme-stats-ruddy-zeta-11.vercel.app/api/pin/?username=GIT-Gizmo&repo=trendspotter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 <br /><br /><br /><br /><br />
 
