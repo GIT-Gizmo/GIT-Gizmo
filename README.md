@@ -74,7 +74,13 @@ src="https://img.shields.io/twitter/follow/dave_gizmo?logo=twitter&style=for-the
 
 <b>My GitHub Stats</b>
 
+<a href="http://www.github.com/git-gizmo"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=git-gizmo&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<div width="100%" align="center">
 <a href="http://www.github.com/GIT-Gizmo"><img src="https://github-readme-stats-ruddy-zeta-11.vercel.app/api?username=GIT-Gizmo&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GIT-Gizmo's GitHub stats" /></a>
+
+<a href="http://www.github.com/git-gizmo"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=git-gizmo&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+</div>
 
 <a href="http://www.github.com/GIT-Gizmo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GIT-Gizmo&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
