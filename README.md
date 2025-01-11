@@ -1,4 +1,4 @@
-Hi 👋 My name is Boluwatife David
+My name is Boluwatife David
 =================================   
 
 Full Stack Engineer
