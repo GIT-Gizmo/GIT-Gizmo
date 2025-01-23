@@ -14,7 +14,7 @@ I recently ventured into the wild wilderness of open-source projects and voila! 
 * 🌍  Location: localhost:3000
 * 🖥️  View my <a href="https://davegizmo.tech" target="_blank" rel="noreferrer">Portfolio</a>
 * ✉️  Mail me at [davidbolu12@gmail.com](mailto:davidbolu12@gmail.com)
-* 🚀  Currently working on [Genia](https://github.com/GIT-Gizmo/genia), a SaaS platform for generating videos, images, code, music and having conversation with AI.
+* 🚀  Currently working on [Quinox](https://github.com/GIT-Gizmo/quinox), a SaaS platform for generating videos, images, code, music and having conversation with AI.
 * 🧠  Web 3.0 and AI-enthusiast.
 <!-- * ⚡  They say I've got the superpower of adaptability, while my thirst for knowledge could rival even Superman's strength! -->
 
@@ -88,7 +88,7 @@ src="https://img.shields.io/twitter/follow/dave_gizmo?logo=twitter&style=for-the
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/GIT-Gizmo/genia" align="left"><img align="left" width="45%" src="https://github-readme-stats-ruddy-zeta-11.vercel.app/api/pin/?username=GIT-Gizmo&repo=genia&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/GIT-Gizmo/ai-stitches" align="right"><img align="right" width="45%" src="https://github-readme-stats-ruddy-zeta-11.vercel.app/api/pin/?username=GIT-Gizmo&repo=ai-stitches&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/GIT-Gizmo/quinox" align="left"><img align="left" width="45%" src="https://github-readme-stats-ruddy-zeta-11.vercel.app/api/pin/?username=GIT-Gizmo&repo=quinox&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/GIT-Gizmo/ai-stitches" align="right"><img align="right" width="45%" src="https://github-readme-stats-ruddy-zeta-11.vercel.app/api/pin/?username=GIT-Gizmo&repo=ai-stitches&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 <br /><br /><br /><br /><br />
 
