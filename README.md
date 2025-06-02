@@ -4,19 +4,13 @@ My name is Boluwatife David
 Full Stack Engineer
 -----------------
 
-Merging my way to mental stability one commit at a time. (Side effects may include increased self-esteem and a sudden urge to learn Rust.)
-
-
-<!-- 
-I recently ventured into the wild wilderness of open-source projects and voila! It's practically my new hobby. Next up: conquer the world with my coding skills, one line at a time! Let's join wands and conjure up some web magic! 
--->
+Merging my way to mental stability one commit at a time.
 
 * 🌍  Location: localhost:3000
-* 🖥️  View my <a href="https://davegizmo.tech" target="_blank" rel="noreferrer">Portfolio</a>
+* 🖥️  View my <a href="https://davegizmo.vercel.app" target="_blank" rel="noreferrer">Portfolio</a>
 * ✉️  Mail me at [davidbolu12@gmail.com](mailto:davidbolu12@gmail.com)
 * 🚀  Currently working on [Quinox](https://github.com/GIT-Gizmo/quinox), a SaaS platform for generating videos, images, code, music and having conversation with AI.
 * 🧠  Web 3.0 and AI-enthusiast.
-<!-- * ⚡  They say I've got the superpower of adaptability, while my thirst for knowledge could rival even Superman's strength! -->
 
 <a href="https://www.github.com/GIT-Gizmo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/GIT-Gizmo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>  <a href="https://www.x.com/davecodes2" target="_blank" rel="noreferrer"><img
