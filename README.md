@@ -7,7 +7,7 @@ Full Stack Engineer
 Merging my way to mental stability one commit at a time.
 
 * 🌍  Location: localhost:3000
-* 🖥️  View my <a href="https://davegizmo.vercel.app" target="_blank" rel="noreferrer">Portfolio</a>
+* 🖥️  View my <a href="https://davegizmo.tech" target="_blank" rel="noreferrer">Portfolio</a>
 * ✉️  Mail me at [davidbolu12@gmail.com](mailto:davidbolu12@gmail.com)
 * 🚀  Currently working on [Quinox](https://github.com/GIT-Gizmo/quinox), a SaaS platform for generating videos, images, code, music and having conversation with AI.
 * 🧠  Web 3.0 & AI-enthusiast.
