@@ -9,7 +9,7 @@ Merging my way to mental stability one commit at a time.
 * 🌍  Location: localhost:3000
 * 🖥️  View my <a href="https://davegizmo.tech" target="_blank" rel="noreferrer">Portfolio</a>
 * ✉️  Mail me at [davidbolu12@gmail.com](mailto:davidbolu12@gmail.com)
-* 🚀  Currently working on [Quinox](https://github.com/GIT-Gizmo/quinox), a SaaS platform for generating videos, images, code, music and having conversation with AI.
+* 🚀  Currently working on [](https://github.com/GIT-Gizmo/), an EduTech platform for University students to learn with AI.
 * 🧠  Web 3.0 & AI-enthusiast.
 
 <a href="https://www.github.com/GIT-Gizmo" target="_blank" rel="noreferrer"><img
